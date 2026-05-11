@@ -1,2 +1,2 @@
---target=/usr
+--target=$HOME/
 --ignore=.stowrc
